@@ -68,19 +68,19 @@ int main() {
     cout << "Second:" << endl;
     b.input();
 
-    cout << "+: ";
+    cout << "+ : ";
     c = a + b;
     c.output();
 
-    cout << "-: ";
+    cout << "- : ";
     c = a - b;
     c.output();
 
-    cout << "*: ";
+    cout << "* : ";
     c = a * b;
     c.output();
 
-    cout << "/: ";
+    cout << "/ : ";
     c = a / b;
     c.output();
 
